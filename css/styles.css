@@ -1,0 +1,28 @@
+header{
+    background-color: white;
+    color: black;
+}
+nav{
+    padding: 15px 0;
+    margin: 0 auto;
+    margin-right: 0%;
+}
+nav>ul>li>a{
+    padding: 15px;
+    margin-right: 0;
+    display: inline;
+    margin-right: 0%;
+    text-align: right;
+    text-transform: uppercase;
+    text-decoration: blue;
+    
+    
+
+}
+nav>ul>li>a:hover {
+    box-shadow: 0 0 1px cyan;
+    background: inherit;
+    color:black;
+    box-sizing: content-box;
+
+}
